@@ -1,4 +1,7 @@
+<<<<<<< Updated upstream
 package week1;
+=======
+>>>>>>> Stashed changes
 public class TrafficSignalStreak {
     public static void main(String[] args) {
 

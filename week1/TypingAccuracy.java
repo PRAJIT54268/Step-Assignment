@@ -1,4 +1,7 @@
+<<<<<<< Updated upstream
 package week1;
+=======
+>>>>>>> Stashed changes
 public class TypingAccuracy {
     public static void main(String[] args) {
         String original = "hello world";

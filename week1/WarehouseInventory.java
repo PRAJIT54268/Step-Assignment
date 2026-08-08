@@ -1,4 +1,7 @@
+<<<<<<< Updated upstream
 package week1;
+=======
+>>>>>>> Stashed changes
 public class WarehouseInventory {
     public static void main(String[] args) {
         int[] sectionA = {20, 15, 30};
