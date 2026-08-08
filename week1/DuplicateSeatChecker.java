@@ -1,3 +1,4 @@
+package week1;
 public class DuplicateSeatChecker {
     public static void main(String[] args) {
         int[] seatNumbers = {101, 102, 103, 102, 105};

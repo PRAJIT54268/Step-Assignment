@@ -1,3 +1,4 @@
+package week1;
 public class MovieReviewProfiler {
     public static void main(String[] args) {
 

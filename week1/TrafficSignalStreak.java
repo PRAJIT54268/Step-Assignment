@@ -1,3 +1,4 @@
+package week1;
 public class TrafficSignalStreak {
     public static void main(String[] args) {
 

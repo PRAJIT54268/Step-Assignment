@@ -1,3 +1,4 @@
+package week1;
 public class WarehouseInventory {
     public static void main(String[] args) {
         int[] sectionA = {20, 15, 30};

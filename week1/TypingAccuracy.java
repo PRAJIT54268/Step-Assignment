@@ -1,3 +1,4 @@
+package week1;
 public class TypingAccuracy {
     public static void main(String[] args) {
         String original = "hello world";
